@@ -1,0 +1,6 @@
+{
+  "name": "VocalCare - Voice Assistant, Daily Task & Emergency Dashboard",
+  "description": "Voice-interactive daily scheduler, spoken task and medication reminders, urgent call alerts, and quick-access family SOS for seniors and busy families.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
